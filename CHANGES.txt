@@ -1,8 +1,8 @@
 CHANGES
 *******
 
-0.8 (unreleased)
-================
+0.7-2 (2011-09-09)
+==================
 
 - Fix brown paper bag release.
 
