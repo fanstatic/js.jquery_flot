@@ -7,7 +7,7 @@ Introduction
 This library packages `flot`_ for `fanstatic`_.
 
 .. _`fanstatic`: http://fanstatic.org
-.. _`flot`: http://code.google.com/p/flot/
+.. _`flot`: http://www.flotcharts.org
 
 This requires integration between your web framework and ``fanstatic``,
 and making sure that the original resources (shipped in the ``resources``
